@@ -12,6 +12,7 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 
 ###JavaScript
 
+- [Codecademy: JavaScript Glossary](https://www.codecademy.com/glossary)
 - [JavaScript.com](https://www.javascript.com/)
 - [Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
