@@ -90,6 +90,7 @@ Do you have a great resource to share? Fork this repo, add your link and submit 
 ### Frameworks
 
 - [Bootstrap](http://getbootstrap.com/)
+- [Bootstrap Video Tutorial](https://youtu.be/gqOEoUR5RHg)
 - [Foundation](http://foundation.zurb.com/)
 
 ### Icons
